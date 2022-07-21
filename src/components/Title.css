@@ -1,0 +1,16 @@
+.header {
+  font-size: 2.2rem;
+  color: white;
+  padding: 1rem 0rem;
+  text-align: center;
+  font-weight: 500;
+}
+#d-1 {
+  color: tomato;
+}
+#d-2 {
+  color: greenyellow;
+}
+#do {
+  color: yellow;
+}

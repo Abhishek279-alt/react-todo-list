@@ -1,0 +1,10 @@
+.listText:hover {
+  text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.5);
+  font-size: 1.3em;
+}
+
+.listText {
+  cursor: pointer;
+  font-size: 1.1em;
+  color: lightgoldenrodyellow;
+}
